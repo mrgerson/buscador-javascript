@@ -1,0 +1,211 @@
+const autos = [{
+        marca: 'BMW',
+        modelo: 'Serie 3',
+        year: 2021,
+        precio: 30000,
+        puertas: 4,
+        color: 'Blanco',
+        transmision: 'automatico',
+        imagen: 'img/bmw4.png',
+        id: 1
+    },
+    {
+        marca: 'Audi',
+        modelo: 'A4',
+        year: 2021,
+        precio: 40000,
+        puertas: 4,
+        color: 'Blanco',
+        transmision: 'automatico',
+        imagen: 'img/audi3.png',
+        id: 2
+    },
+    {
+        marca: 'Ford',
+        modelo: 'Mustang',
+        year: 2015,
+        precio: 20000,
+        puertas: 2,
+        color: 'Blanco',
+        transmision: 'automatico',
+        imagen: 'img/ford.png',
+        id: 3
+    },
+    {
+        marca: 'Audi',
+        modelo: 'A6',
+        year: 2020,
+        precio: 35000,
+        puertas: 4,
+        color: 'Azul',
+        transmision: 'automatico',
+        imagen: 'img/audi2.png',
+        id: 4
+    },
+    {
+        marca: 'BMW',
+        modelo: 'Serie 5',
+        year: 2016,
+        precio: 70000,
+        puertas: 4,
+        color: 'Rojo',
+        transmision: 'automatico',
+        imagen: 'img/bmw3.png',
+        id: 5
+    },
+    {
+        marca: 'Mercedes Benz',
+        modelo: 'Clase C',
+        year: 2022,
+        precio: 25000,
+        puertas: 4,
+        color: 'Azul',
+        transmision: 'automatico',
+        imagen: 'img/mercedez-benz2.png',
+        id: 6
+    },
+    {
+        marca: 'Chevrolet',
+        modelo: 'Camaro',
+        year: 2018,
+        precio: 60000,
+        puertas: 2,
+        color: 'cafe',
+        transmision: 'manual',
+        imagen: 'img/chevrolet.png',
+        id: 7
+    },
+    {
+        marca: 'Ford',
+        modelo: 'Mustang',
+        year: 2019,
+        precio: 80000,
+        puertas: 2,
+        color: 'Rojo',
+        transmision: 'manual',
+        imagen: 'img/ford1.png',
+        id: 8
+    },
+    {
+        marca: 'Dodge',
+        modelo: 'Challenger',
+        year: 2022,
+        precio: 40000,
+        puertas: 4,
+        color: 'Blanco',
+        transmision: 'automatico',
+        imagen: 'img/dodge3.png',
+        id: 9
+    },
+    {
+        marca: 'Audi',
+        modelo: 'A3',
+        year: 2017,
+        precio: 55000,
+        puertas: 2,
+        color: 'Negro',
+        transmision: 'manual',
+        imagen: 'img/audi.png',
+        id: 10
+    },
+    {
+        marca: 'Dodge',
+        modelo: 'Challenger',
+        year: 2021,
+        precio: 25000,
+        puertas: 2,
+        color: 'Rojo',
+        transmision: 'manual',
+        imagen: 'img/dodge.png',
+        id: 11
+    },
+    {
+        marca: 'Mercedes Benz',
+        modelo: 'Clase C',
+        year: 2018,
+        precio: 45000,
+        puertas: 4,
+        color: 'Gris',
+        transmision: 'automatico',
+        imagen: 'img/mercedez-benz.png',
+        id: 12
+    },
+    {
+        marca: 'BMW',
+        modelo: 'Serie 5',
+        year: 2019,
+        precio: 90000,
+        puertas: 4,
+        color: 'azul',
+        transmision: 'automatico',
+        imagen: 'img/bmw.png',
+        id: 13
+    },
+    {
+        marca: 'Ford',
+        modelo: 'Mustang',
+        year: 2017,
+        precio: 60000,
+        puertas: 2,
+        color: 'Negro',
+        transmision: 'manual',
+        imagen: 'img/ford2.png',
+        id: 14
+    },
+    {
+        marca: 'Dodge',
+        modelo: 'Challenger',
+        year: 2016,
+        precio: 35000,
+        puertas: 2,
+        color: 'Negro',
+        transmision: 'automatico',
+        imagen: 'img/dodge2.png',
+        id: 15
+    },
+    {
+        marca: 'BMW',
+        modelo: 'Serie 3',
+        year: 2018,
+        precio: 50000,
+        puertas: 4,
+        color: 'Blanco',
+        transmision: 'automatico',
+        imagen: 'img/bmw4.png',
+        id: 16
+    },
+    {
+        marca: 'BMW',
+        modelo: 'Serie 5',
+        year: 2017,
+        precio: 80000,
+        puertas: 4,
+        color: 'Negro',
+        transmision: 'automatico',
+        imagen: 'img/bmw2.png',
+        id: 17
+        
+    },
+    {
+        marca: 'Mercedes Benz',
+        modelo: 'Clase C',
+        year: 2021,
+        precio: 40000,
+        puertas: 4,
+        color: 'Blanco',
+        transmision: 'automatico',
+        imagen: 'img/mercedez-benz1.png',
+        id: 18
+    },
+    {
+        marca: 'Audi',
+        modelo: 'A4',
+        year: 2016,
+        precio: 30000,
+        puertas: 4,
+        color: 'Rojo',
+        transmision: 'automatico',
+        imagen: 'img/audi4.png',
+        id: 19
+    }
+];
